@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 252 144" width="252" height="144">
+	<style>
+		.s0 { fill: #ffffff;stroke: #000000;stroke-miterlimit:10 } 
+		.s1 { fill: #000000;stroke: #000000;stroke-miterlimit:10 } 
+	</style>
+	<g id="Layer 1">
+		<path id="Form 1" fill-rule="evenodd" class="s0" d="m63 72"/>
+		<path id="Form 2" fill-rule="evenodd" class="s0" d="m189 72c0 0-17.33-24.03-63-24.03-43.67 0-63 24.03-63 24.03l63 14.3z"/>
+		<path id="Form 3" fill-rule="evenodd" class="s1" d="m153.4 79.98c0.24 0.03-8.8-12.4-27.39-12.4-17.3 0-26.9 12.4-26.61 12.4l26.6 6.32z"/>
+		<path id="Form 4" fill-rule="evenodd" class="s1" d="m63 82.38v13.8l63 15.8v-15.2"/>
+		<path id="Form 5" fill-rule="evenodd" class="s1" d="m189 83.38l-63 13.8v15l63-16.2"/>
+	</g>
+</svg>
