@@ -18,6 +18,7 @@ export default function Home() {
           height={250}
         />
         <Header title="Hier ensteht ein EYE-TEACH Projekt" />
+            <Header title="A EYE-TEACH project in the making." />
       </main>
 
       <Footer />
